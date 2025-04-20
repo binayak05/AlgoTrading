@@ -1,9 +1,9 @@
-📈 Algo Trading Project: Top 50 US Stocks Strategy
+📈 **Algo Trading Project: Top 50 US Stocks Strategy**
 
 - This project builds an end-to-end algorithmic trading backtest system.
 - It downloads and processes historical stock data for the top 50 US companies, simulates a basic momentum-based trading strategy, and outputs the results.
 
-🚀 Project Goal
+🚀 **Project Goal**
 
 - Download 5 years of historical daily stock data for the top 50 US stocks.
 - Preprocess and clean the data.
@@ -11,7 +11,7 @@
 - Simulate buying at next day's open and selling after 5 trading days.
 - Analyze and export simulated trading results.
 
-## 🛠 Tech Stack
+## 🛠 **Tech Stack**
 
 - Python (Core programming)
 - yfinance (Download stock price data)
@@ -19,7 +19,7 @@
 - numpy (Numerical operations)
 - concurrent.futures (parallel data download)
 
-## 📂 Folder Structure
+## 📂 **Folder Structure**
 
 ```
 algo-trading-project/ ├── data/ # Downloaded CSV data ├── notebooks/ # Jupyter notebooks ├── src/ # Python source code ├── README.md # Documentation ├── requirements.txt # Dependencies └── .gitignore # Git settings
