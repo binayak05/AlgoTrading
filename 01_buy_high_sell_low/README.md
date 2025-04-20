@@ -22,5 +22,11 @@
 ## 📂 **Folder Structure**
 
 ```bash
-algo-trading-project/ ├── data/ # Downloaded CSV data ├── notebooks/ # Jupyter notebooks ├── src/ # Python source code ├── README.md # Documentation ├── requirements.txt # Dependencies └── .gitignore # Git settings
+01_buy_high_sell_low/
+├── data/ # Downloaded CSV data
+├── notebooks/ # Jupyter notebooks
+├── src/ # Python source code
+├── README.md # Documentation
+├── requirements.txt # Dependencies
+└── .gitignore # Git settings
 ```
